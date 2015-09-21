@@ -1,5 +1,6 @@
 
 #Introduction{
+	margin:0 auto;
 	float:right;
     width: 60%;
     padding: 10px;
@@ -12,7 +13,6 @@
     color: black;
     padding: 10px;
     width:25%;
-    padding:10px;
 	overflow:hidden;
 	float:left;
 }
